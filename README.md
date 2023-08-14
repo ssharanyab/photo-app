@@ -7,6 +7,7 @@ Photo App to search your favorite photos
 ## Features
 
 - Display in tabbarview
+- Staggered grid view
 - Search photos
 
 
