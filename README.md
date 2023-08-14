@@ -1,18 +1,16 @@
+# photo_app
 
-# Photo App
+A new Flutter project.
 
-Photo App to search your favorite photos 
+## Getting Started
 
+This project is a starting point for a Flutter application.
 
-## Features
+A few resources to get you started if this is your first Flutter project:
 
-- Display in tabbarview
-- Search photos
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-
-
-
-## Demo
-- [Demo APK](https://drive.google.com/file/d/1JpaBaGoe9KH-12V4cjcoCRyHDHwIvyks/view?usp=drive_link)
-- [Video Link](https://youtu.be/2Yild1Ah4fI)
-
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
