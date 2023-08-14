@@ -146,6 +146,12 @@ class _PhotoDisplayScreenState extends State<PhotoDisplayScreen> {
                             height: 100,
                             width: 100,
                             fit: BoxFit.cover,
+                            errorBuilder: (BuildContext context,
+                                Object exception, StackTrace? stackTrace) {
+                              return const Center(
+                                child: Text('😢'),
+                              );
+                            },
                           ),
                         ),
                       ),
@@ -186,6 +192,12 @@ class _PhotoDisplayScreenState extends State<PhotoDisplayScreen> {
                             height: 100,
                             width: 100,
                             fit: BoxFit.cover,
+                            errorBuilder: (BuildContext context,
+                                Object exception, StackTrace? stackTrace) {
+                              return const Center(
+                                child: Text('😢'),
+                              );
+                            },
                           ),
                         ),
                       ),
@@ -226,6 +238,12 @@ class _PhotoDisplayScreenState extends State<PhotoDisplayScreen> {
                             height: 100,
                             width: 100,
                             fit: BoxFit.cover,
+                            errorBuilder: (BuildContext context,
+                                Object exception, StackTrace? stackTrace) {
+                              return const Center(
+                                child: Text('😢'),
+                              );
+                            },
                           ),
                         ),
                       ),
