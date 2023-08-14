@@ -21,3 +21,13 @@ Photo App to search your favorite photos
 ![App Screenshot](https://raw.githubusercontent.com/ssharanyab/photo-app/main/assets/screen_recording_gif.gif)
 
 
+
+## Screenshots
+
+|                       |                       |
+| ----------------------------------- | ----------------------------------- |
+| ![first_page](https://raw.githubusercontent.com/ssharanyab/photo-app/main/assets/rose_screen.png) | ![second_page_1](https://raw.githubusercontent.com/ssharanyab/photo-app/main/assets/dog_page.png) |
+
+|                       |                       |
+| ----------------------------------- | ----------------------------------- |
+| ![second_page_2](https://raw.githubusercontent.com/ssharanyab/photo-app/main/assets/search_screen.png) | ![third_page](https://raw.githubusercontent.com/ssharanyab/photo-app/main/assets/search_screen_image.png) |
